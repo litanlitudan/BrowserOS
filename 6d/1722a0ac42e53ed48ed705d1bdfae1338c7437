@@ -1,0 +1,38 @@
+packages/browseros-agent/apps/claw-server/src/api/mcp/effects/tab_groups.rs
+  h_30e7b15e71bd4b 813-814,816-824,847-866,2537-2538,2540-2541,2551-2567
+packages/browseros-agent/crates/browseros-cdp/protocol/protocol.json
+  h_30e7b15e71bd4b 5357-5362
+packages/browseros-agent/crates/browseros-cdp/protocol/protocol.sha256
+  h_30e7b15e71bd4b 1
+packages/browseros-agent/crates/browseros-cdp/tests/protocol_source.rs
+  h_30e7b15e71bd4b 69-85
+packages/browseros-agent/packages/cdp-protocol/src/generated/domains/browser.ts
+  h_30e7b15e71bd4b 335
+packages/browseros-agent/scripts/codegen/cdp-protocol.test.ts
+  h_30e7b15e71bd4b 1-42
+packages/browseros/chromium_patches/chrome/browser/devtools/BUILD.gn
+  h_30e7b15e71bd4b 16,23,30,38,43
+packages/browseros/chromium_patches/chrome/browser/devtools/protocol/browser_handler.cc
+  h_30e7b15e71bd4b 5,27,41,49,99,518,586,1194-1196,1203-1219
+packages/browseros/chromium_patches/chrome/browser/devtools/protocol/browser_handler.h
+  h_30e7b15e71bd4b 38,138-140
+packages/browseros/chromium_patches/chrome/browser/devtools/protocol/browser_handler_android.cc
+  h_30e7b15e71bd4b 73,241-243
+packages/browseros/chromium_patches/chrome/browser/devtools/protocol/browser_handler_android.h
+  h_30e7b15e71bd4b 20,121-123
+packages/browseros/chromium_patches/chrome/browser/devtools/protocol/devtools_protocol_browsertest.cc
+  h_30e7b15e71bd4b 5,10,14,22,28-30,34,37,43,54,65,240-340
+packages/browseros/chromium_patches/third_party/blink/public/devtools_protocol/domains/Browser.pdl
+  h_30e7b15e71bd4b 35,261-262,289
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.25",
+  "base_commit_sha": "6d1722a0ac42e53ed48ed705d1bdfae1338c7437",
+  "prompts": {},
+  "humans": {
+    "h_30e7b15e71bd4b": {
+      "author": "Tan Li <tan@tanli.dev>"
+    }
+  }
+}
